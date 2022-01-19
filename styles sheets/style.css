@@ -5,9 +5,14 @@
     padding: 0;
 }
 
+/* Adding Body BackGround CSS Code */
+body{
+    background: wheat;
+}
+
 .sidebar{
     position: absolute;
-    background-color: rgb(223, 218, 218);
+    background-color: white;
     font-family: 'Fira Sans', sans-serif;
     height: 100vh;
     transition: transform 0.3s ease-in;
